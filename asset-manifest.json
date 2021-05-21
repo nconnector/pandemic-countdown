@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/pandemic-countdown/static/css/main.f188bfdf.chunk.css",
-    "main.js": "/pandemic-countdown/static/js/main.ae51a911.chunk.js",
-    "main.js.map": "/pandemic-countdown/static/js/main.ae51a911.chunk.js.map",
+    "main.js": "/pandemic-countdown/static/js/main.078ef367.chunk.js",
+    "main.js.map": "/pandemic-countdown/static/js/main.078ef367.chunk.js.map",
     "runtime-main.js": "/pandemic-countdown/static/js/runtime-main.73eeea20.js",
     "runtime-main.js.map": "/pandemic-countdown/static/js/runtime-main.73eeea20.js.map",
-    "static/js/2.79a86a88.chunk.js": "/pandemic-countdown/static/js/2.79a86a88.chunk.js",
-    "static/js/2.79a86a88.chunk.js.map": "/pandemic-countdown/static/js/2.79a86a88.chunk.js.map",
+    "static/js/2.694e24fb.chunk.js": "/pandemic-countdown/static/js/2.694e24fb.chunk.js",
+    "static/js/2.694e24fb.chunk.js.map": "/pandemic-countdown/static/js/2.694e24fb.chunk.js.map",
     "index.html": "/pandemic-countdown/index.html",
     "static/css/main.f188bfdf.chunk.css.map": "/pandemic-countdown/static/css/main.f188bfdf.chunk.css.map",
-    "static/js/2.79a86a88.chunk.js.LICENSE.txt": "/pandemic-countdown/static/js/2.79a86a88.chunk.js.LICENSE.txt",
+    "static/js/2.694e24fb.chunk.js.LICENSE.txt": "/pandemic-countdown/static/js/2.694e24fb.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/pandemic-countdown/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.73eeea20.js",
-    "static/js/2.79a86a88.chunk.js",
+    "static/js/2.694e24fb.chunk.js",
     "static/css/main.f188bfdf.chunk.css",
-    "static/js/main.ae51a911.chunk.js"
+    "static/js/main.078ef367.chunk.js"
   ]
 }
