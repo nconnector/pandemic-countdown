@@ -14,7 +14,7 @@ html {
 body {
     background-image: url("https://images.unsplash.com/photo-1584556812933-8e6faeb93a21?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80");
     background-repeat: no-repeat;
-    background-size: auto 100%;
+    background-size: max(150vh, 100vw) max(66.67vw, 100vh);
     background-position: 40% 50%;
     min-height: 100vh;
     position: relative;
