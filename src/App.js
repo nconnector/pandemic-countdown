@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react'
-import { Helmet } from 'react-helmet'
 import logo from './logo.svg';
 import './App.css';
 
@@ -7,10 +6,6 @@ import './App.css';
 const App = () => {
     return (
         <div className="App">
-        <Helmet>
-            <meta charSet="utf-8" />
-            <title>COVID Countdown - MB</title>
-        </Helmet>
             <Header />
             <Countdown />
         </div>
